@@ -1,0 +1,33 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 74D7-CF66
+
+ Directory of C:\Program Files
+
+07/10/2020  14:10    <DIR>          .
+07/10/2020  14:10    <DIR>          ..
+12/10/2020  22:44    <DIR>          Common Files
+23/08/2020  10:31    <DIR>          dotnet
+09/09/2020  00:18    <DIR>          Internet Explorer
+21/07/2020  22:48    <DIR>          Microsoft Office
+07/10/2020  14:10    <DIR>          Microsoft Office 15
+02/10/2020  00:08    <DIR>          Microsoft Update Health Tools
+19/03/2019  01:52    <DIR>          ModifiableWindowsApps
+22/07/2020  10:08    <DIR>          MSBuild
+19/08/2020  14:34    <DIR>          NVIDIA Corporation
+04/10/2020  13:20    <DIR>          Razer
+04/10/2020  13:20    <DIR>          Razer Chroma SDK
+22/07/2020  10:08    <DIR>          Reference Assemblies
+24/07/2020  21:03    <DIR>          UNP
+22/07/2020  19:29    <DIR>          Windows Defender
+14/10/2020  02:00    <DIR>          Windows Defender Advanced Threat Protection
+24/07/2020  21:29    <DIR>          Windows Mail
+22/07/2020  10:19    <DIR>          Windows Media Player
+19/03/2019  09:50    <DIR>          Windows Multimedia Platform
+22/07/2020  13:29    <DIR>          Windows NT
+22/07/2020  10:19    <DIR>          Windows Photo Viewer
+19/03/2019  09:50    <DIR>          Windows Portable Devices
+19/03/2019  01:52    <DIR>          Windows Security
+19/03/2019  01:52    <DIR>          WindowsPowerShell
+21/07/2020  22:04    <DIR>          WinRAR
+               0 File(s)              0 bytes
+              26 Dir(s)  44.833.968.128 bytes free
